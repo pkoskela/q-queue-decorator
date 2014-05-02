@@ -17,6 +17,10 @@
     "async",
     "serial"
   ],
+  "devDependencies": {
+    "underscore": "1.6.0",
+    "q": "1.0.1"
+  },
   "author": {
    "name": "Pauli Koskelainen",
    "url": "https://github.com/pkoskela"

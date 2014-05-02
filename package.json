@@ -1,0 +1,24 @@
+{
+  "name": "q-queue-decorator",
+  "version": "0.0.1",
+  "description": "A little function decorator for asynchronous serial queue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkoskela/q-queue-decorator"
+  },
+  "keywords": [
+    "q",
+    "queue",
+    "decorator",
+    "async",
+    "serial"
+  ],
+  "author": {
+   "name": "Pauli Koskelainen",
+   "url": "https://github.com/pkoskela"
+  }
+}

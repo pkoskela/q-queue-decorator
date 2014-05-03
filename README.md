@@ -5,8 +5,8 @@ sequential queue. The wrapped function must use promises provided by the Q
 module.
 
 ```js
-function long_task = function() {
- var defer = Q.defer();
+function long_task() {
+ var defer = require('q').defer();
 
  setTimeout(function(){
   console.log("task completed");

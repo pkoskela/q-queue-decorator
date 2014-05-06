@@ -1,6 +1,6 @@
 {
   "name": "q-queue-decorator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A little function decorator for asynchronous serial queue.",
   "main": "index.js",
   "scripts": {
